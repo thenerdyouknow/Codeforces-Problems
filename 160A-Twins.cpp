@@ -1,7 +1,8 @@
 #include<iostream>
 #include<vector> 
 #include <algorithm> 
-/* The basic idea is to sort the coins in ascending order and start taking coins from the opposite end until we reach a point where the amount we have is strictly greater than the amount remaining. */
+/* The basic idea is to sort the coins in ascending order and start taking coins 
+from the opposite end until we reach a point where the amount we have is strictly greater than the amount remaining. */
 int main() {
   int number_of_coins,total_sum=0,minimum_number_of_coins=0,temp_sum =0;
   std::vector<int> all_coins;
