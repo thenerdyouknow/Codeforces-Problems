@@ -9,5 +9,5 @@ A :
 5. 271A - Beautiful Year(https://codeforces.com/problemset/problem/271/A) (10/24/2018)
 6. 136A - Presents(https://codeforces.com/problemset/problem/136/A) (10/24/2018)
 
-B:
+B :
 1. 158B - Taxi(https://codeforces.com/problemset/problem/158/B) (10/19/2018)
