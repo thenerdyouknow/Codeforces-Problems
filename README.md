@@ -13,6 +13,7 @@ A :
 9. 208A - Dubstep(https://codeforces.com/problemset/problem/208/A) (10/29/2018)
 9. 318A - Even Odds(https://codeforces.com/problemset/problem/318/A) (10/29/2018)
 10. 59A - Word(https://codeforces.com/problemset/problem/59/A) (10/29/2018)
+11. 61A - Ultra-Fast Mathematician(https://codeforces.com/problemset/problem/61/A) (10/29/2018)
 
 B :
 1. 158B - Taxi(https://codeforces.com/problemset/problem/158/B) (10/19/2018)
