@@ -16,6 +16,7 @@ A :
 11. 61A - Ultra-Fast Mathematician(https://codeforces.com/problemset/problem/61/A) (10/29/2018)
 12. 469A - I Wanna Be the Guy(https://codeforces.com/problemset/problem/469/A) (10/30/2018)
 13. 344A - Magnets(https://codeforces.com/problemset/problem/344/A) (10/30/2018)
+14. 405A - Gravity Flip(https://codeforces.com/problemset/problem/405/A) (10/30/2018)
 
 B :
 1. 158B - Taxi(https://codeforces.com/problemset/problem/158/B) (10/19/2018)
