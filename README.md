@@ -19,6 +19,7 @@ A :
 14. 405A - Gravity Flip(https://codeforces.com/problemset/problem/405/A) (10/30/2018)
 15. 451A - Game With Sticks(https://codeforces.com/problemset/problem/451/A) (11/1/2018)
 16. 734A - Anton and Danik(https://codeforces.com/problemset/problem/734/A) (11/1/2018)
+17. 25A - IQ Test(https://codeforces.com/problemset/problem/25/A) (11/1/2018)
 
 B :
 1. 158B - Taxi(https://codeforces.com/problemset/problem/158/B) (10/19/2018)
